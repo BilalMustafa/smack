@@ -18,6 +18,11 @@ let UNWIND = "unwindToChannel"
 
 let TO_AVATAR_PICKER = "toAvatarPicker"
 
+//Colors
+let SMACK_PURPLE_PLACEHOLDER = #colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 0.5)
+
+let NOTIF_USER_DATA_DID_CHANGED = Notification.Name("NotifUserDataChanged")
+
 //USER DEFAULTS
 
 let TOKEN_KEY = "token"
